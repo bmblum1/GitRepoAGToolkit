@@ -1,0 +1,23 @@
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\AGToolkit.Domain.deps.json
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\AGToolkit.Domain.dll
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\AGToolkit.Domain.pdb
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.csprojAssemblyReference.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.AssemblyInfoInputs.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.AssemblyInfo.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.dll
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.pdb
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\NLog.config
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\AGToolkit.Domain.dll.config
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\AGToolkit.Domain.deps.json
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\AGToolkit.Domain.dll
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\AGToolkit.Domain.pdb
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.csprojAssemblyReference.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.AssemblyInfoInputs.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.AssemblyInfo.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.csproj.CopyComplete
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.dll
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit.Domain\obj\Debug\netcoreapp2.2\AGToolkit.Domain.pdb

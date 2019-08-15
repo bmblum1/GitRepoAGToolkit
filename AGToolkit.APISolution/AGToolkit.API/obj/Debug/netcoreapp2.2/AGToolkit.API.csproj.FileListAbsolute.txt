@@ -12,17 +12,17 @@ C:\Users\Benji\Desktop\Coding Courses\AGToolkit.APISolution\AGToolkit.API\obj\De
 C:\Users\Benji\Desktop\Coding Courses\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.RazorTargetAssemblyInfo.cache
 C:\Users\Benji\Desktop\Coding Courses\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.dll
 C:\Users\Benji\Desktop\Coding Courses\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.pdb
-C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.csprojAssemblyReference.cache
-C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.csproj.CoreCompileInputs.cache
-C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.RazorAssemblyInfo.cache
-C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.RazorAssemblyInfo.cs
-C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.AssemblyInfoInputs.cache
-C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.AssemblyInfo.cs
 C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\bin\Debug\netcoreapp2.2\AGToolkit.API.deps.json
 C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\bin\Debug\netcoreapp2.2\AGToolkit.API.runtimeconfig.json
 C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\bin\Debug\netcoreapp2.2\AGToolkit.API.runtimeconfig.dev.json
 C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\bin\Debug\netcoreapp2.2\AGToolkit.API.dll
 C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\bin\Debug\netcoreapp2.2\AGToolkit.API.pdb
+C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.csproj.CoreCompileInputs.cache
+C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.RazorAssemblyInfo.cache
+C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.RazorAssemblyInfo.cs
+C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.AssemblyInfoInputs.cache
+C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.AssemblyInfo.cs
 C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.RazorTargetAssemblyInfo.cache
 C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.dll
 C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.pdb
+C:\Users\Benji\Development\AGToolkit.APISolution\AGToolkit.API\obj\Debug\netcoreapp2.2\AGToolkit.API.csprojAssemblyReference.cache

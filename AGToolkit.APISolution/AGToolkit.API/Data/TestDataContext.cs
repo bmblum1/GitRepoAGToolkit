@@ -1,15 +1,41 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace AGToolkit.API.Data
 {
     public class TestDataContext : DbContext
     {
-        public TestDataContext(DbContextOptions<TestDataContext> ctx) : base(ctx) { }
-        
+
+        [ThreadStatic]
+        protected static TestDataContext current;
+        public static TestDataContext Current()
+        {
+            if (current == null)
+                current = new TestDataContext();
+
+            return current;
+        }
+
+        public TestDataContext() { }
+        public TestDataContext(DbContextOptions<TestDataContext> options)
+            : base(options)
+        {
+        }
+
         public virtual DbSet<TestData> TestData { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-76B01B4\SQLEXPRESS;Initial Catalog=AGToolkitData;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            }
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<TestData>(entity =>
+            { });
+        }
     }
 }

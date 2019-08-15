@@ -1,0 +1,66 @@
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.deps.json
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.runtimeconfig.json
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.runtimeconfig.dev.json
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.dll
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.pdb
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.Views.dll
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.Views.pdb
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.Domain.dll
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.Domain.pdb
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.csprojAssemblyReference.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorAssemblyInfo.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorAssemblyInfo.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.AssemblyInfoInputs.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.AssemblyInfo.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.TagHelpers.input.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.TagHelpers.output.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorCoreGenerate.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorTargetAssemblyInfo.cache
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorTargetAssemblyInfo.cs
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.Views.pdb
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.csproj.CopyComplete
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.dll
+C:\Users\Benji\Development\AGToolkit Web - Copy\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.pdb
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\NLog.config
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.deps.json
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.runtimeconfig.json
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.runtimeconfig.dev.json
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.dll
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.pdb
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.Views.dll
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.Views.pdb
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.Domain.dll
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.Domain.pdb
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\bin\Debug\netcoreapp2.2\AGToolkit.Domain.dll.config
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.csprojAssemblyReference.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorAssemblyInfo.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorAssemblyInfo.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.AssemblyInfoInputs.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.AssemblyInfo.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.TagHelpers.input.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.TagHelpers.output.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorCoreGenerate.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorTargetAssemblyInfo.cache
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.RazorTargetAssemblyInfo.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.Views.pdb
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.csproj.CopyComplete
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.dll
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\AGToolkit.pdb
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Benji\Development\AGToolkit Web\AGToolkitSolution\AGToolkit\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
