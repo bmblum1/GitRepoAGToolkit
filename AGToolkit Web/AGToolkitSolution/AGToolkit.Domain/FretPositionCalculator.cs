@@ -71,12 +71,16 @@ namespace AGToolkit.Domain
             }
             catch (InvalidFretOrScaleException ex)
             {
-
-                _logger.NotifyOfFailedCalculation(FretAmount, ScaleLength); // Console Output Logger
-                logger.Error(ex, message: "Invalid Fret Amount or Scale Length!"); // Write to text file logger
+                logError(ex);
                 throw new InvalidFretOrScaleException();
             }
             return calculatedFretPositions;
+        }
+
+        public void logError(InvalidFretOrScaleException error)
+        {
+            _logger.NotifyOfFailedCalculation(FretAmount, ScaleLength); // Console Output Logger
+            logger.Error(error, message: "Invalid Fret Amount or Scale Length!"); // Write to text file logger
         }
     }
 }

@@ -13452,11 +13452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benji\\Development\\AGToolkit.APISolution\\AGToolkit.API\\AGToolkit.API.csproj",
+      "projectUniqueName": "C:\\Users\\Benji\\Development\\GitRepoAGToolkit\\AGToolkit.APISolution\\AGToolkit.API\\AGToolkit.API.csproj",
       "projectName": "AGToolkit.API",
-      "projectPath": "C:\\Users\\Benji\\Development\\AGToolkit.APISolution\\AGToolkit.API\\AGToolkit.API.csproj",
+      "projectPath": "C:\\Users\\Benji\\Development\\GitRepoAGToolkit\\AGToolkit.APISolution\\AGToolkit.API\\AGToolkit.API.csproj",
       "packagesPath": "C:\\Users\\Benji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benji\\Development\\AGToolkit.APISolution\\AGToolkit.API\\obj\\",
+      "outputPath": "C:\\Users\\Benji\\Development\\GitRepoAGToolkit\\AGToolkit.APISolution\\AGToolkit.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

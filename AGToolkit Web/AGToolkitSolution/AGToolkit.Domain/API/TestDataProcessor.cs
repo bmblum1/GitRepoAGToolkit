@@ -88,11 +88,15 @@ namespace AGToolkit.Domain.API
             }
             catch (Exception ex)
             {
-                _logger.NotifyOfFailedDeletion(testId);
-                Logger.Error(ex, message: $"Unable to delete data entry for key -- TestId: { testId }");
+                logError(ex, testId);
                 throw new Exception();
             }
-            
+        }
+
+        public static void logError(Exception error, int tId)
+        {
+            _logger.NotifyOfFailedDeletion(tId);
+            Logger.Error(error, message: $"Unable to delete data entry for key -- TestId: { tId }");
         }
     }
 }
