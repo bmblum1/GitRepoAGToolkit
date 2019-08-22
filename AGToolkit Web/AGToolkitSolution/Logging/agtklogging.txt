@@ -530,3 +530,108 @@
  Exception Message: Specified argument was out of the range of valid values.
  Additional Info: Invalid Fret Amount or Scale Length!
 
+ -------------- Error (2019-08-16 10:37:57.3933) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-16 10:37:57.4266) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-16 10:37:57.4266) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-16 10:37:57.4266) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-16 10:37:57.4266) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-21 15:06:08.2239) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-21 15:06:08.2808) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-21 15:06:08.2808) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-21 15:06:08.2808) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-21 15:06:08.2808) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-22 10:32:51.1648) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-22 10:32:51.1982) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-22 10:32:51.1982) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-22 10:32:51.1982) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+
+ -------------- Error (2019-08-22 10:32:51.1982) --------------
+ 
+ Call Site: AGToolkit.Domain.FretPositionCalculator.logError
+ Exception Type: AGToolkit.Domain.InvalidFretOrScaleException
+ Exception Message: Specified argument was out of the range of valid values.
+ Additional Info: Invalid Fret Amount or Scale Length!
+

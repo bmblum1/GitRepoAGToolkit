@@ -7,6 +7,7 @@
 
 <head>
     <link rel="stylesheet" href="~/bootstrap.min.css" type="text/css" />
+    <script src="~/js/indexpagefunctions.js"></script>
 </head>
 
 <div>
@@ -56,110 +57,4 @@
     </table>
 </div>
 
-<!-- Create the HTML table based on the number of frets entered -->
-<script>
-    function createTable() {
-        var table = '';
-        var rows = document.getElementById('numberOfFretsFormBox').value;
-        var cols = 2;
-        for (var r = 0; r < rows; r++) {
-            table += '<tr>';
-            for (var c = 0; c < cols; c++) {
-                table += '<td>' + c + '</td>';
-            }
-            table += '</tr>';
-        }
-    }
-</script>
-
-<!-- Calculates the fret positions, adds them to an array, and loads them into the table -->
-<script>
-    let scaleCalcData = [];
-    var numberOfFrets;
-    var scaleLength;
-
-    // For-loop to loop the calculation and populate the scaleCalcData array []
-    function calculateAndLoadArray() {
-        let location = 0;
-        let distance = 0;
-        let scalingFactor = 0;
-        numberOfFrets = document.getElementById('numberOfFretsFormBox').value;
-        scaleLength = document.getElementById('scaleLengthFormBox').value;
-
-        for (i = 0; i < numberOfFrets; i++) {
-            var obj = {};
-
-            // Fret distance calculation
-            location = scaleLength - distance
-            scalingFactor = location / 17.817;
-            distance += scalingFactor;
-            
-            // Loading the object and pushing to the array
-            obj['fret'] = i + 1;
-            obj['currentDistance'] = distance.toFixed(3);
-            scaleCalcData.push(obj);
-        }
-    }
-</script>
-
-<script>
-    // Button action event, loads the table and creates it on the page
-    function buttonCalculation() {
-        calculateAndLoadArray();
-        loadTableData(scaleCalcData);
-        scaleCalcData = [];
-    }
-</script>
-
-<!-- Create the table on the webpage -->
-<script>
-    function loadTableData(scaleCalcData) {
-        const tableBody = document.getElementById('calculationTableData');
-        let dataHtml = '';
-
-        for (let calc of scaleCalcData) {
-            dataHtml += `<tr><td>${calc.fret}</td><td>${calc.currentDistance}</td></tr>`;
-        }
-        console.log(dataHtml)
-
-        tableBody.innerHTML = dataHtml;
-    }
-</script>
-
-<!-- Number of Frets form input box focuses on pageload -->
-<script type="text/javascript">document.getElementById('numberOfFretsFormBox').focus();</script>
-
-<!-- Reset Button Logic -->
-<script>
-    function clearForm() {
-        document.getElementById("client").reset();
-    }
-</script>
-
-<!-- Form Input Validation -->
-<script>
-    (function () {
-        'use strict';
-        window.addEventListener('load', function () {
-            // Fetch all the forms we want to apply custom Bootstrap validation styles to
-            var forms = document.getElementsByClassName('needs-validation');
-            var eventList = ["change", "submit", "blur", "invalid", "input"];
-            // Loop over them and prevent submission
-            var validation = Array.prototype.filter.call(forms, function (form) {
-                for (event of eventList) {
-                    form.addEventListener(event, function (event) {
-                        if (form.checkValidity() === false) {
-                            event.preventDefault();
-                            event.stopPropagation();
-                            document.getElementById('calculateButton').disabled = true;
-                        }
-                        else if (form.checkValidity() === true) {
-                            document.getElementById('calculateButton').disabled = false;
-                        }
-                        form.classList.add('was-validated');
-                    }, false);
-                }
-            });
-        }, false);
-    })();
-</script>
+<script>document.getElementById('numberOfFretsFormBox').focus();</script>
